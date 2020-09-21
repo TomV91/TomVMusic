@@ -109,13 +109,13 @@ tr:nth-child(odd)
 }
 
 .resize {
-    height: 350px;
-    width: 300px;
+    height: 35%;
+    width: 30%;
 }
 
 .resize1 {
-    width: 400px; 
-    height: 350px;
+    width: 40%; 
+    height: 35%;
 }
 
 .imgdiv {
@@ -148,3 +148,7 @@ form input,textarea {
     height: 70%;
     margin-left: 17%;
   }
+
+label {
+    margin-top: 5px;
+}
