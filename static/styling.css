@@ -152,3 +152,12 @@ form input,textarea {
 label {
     margin-top: 5px;
 }
+
+.maintitle {
+    text-shadow: 2px 2px 3px rgb(80, 78, 78);
+    padding: 10px 0px;
+}
+
+.mainsubtitle {
+    margin-bottom: 0;
+}
