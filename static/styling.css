@@ -86,7 +86,7 @@ tr:nth-child(odd)
     margin: auto;
 }
 .carousel-item {
-    height: 800px;
+    height: 80%;
     overflow: hidden;
     width: 100%;
 }
