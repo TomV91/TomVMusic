@@ -1,0 +1,135 @@
+body {
+    background-color: black;
+    font-family: Trebuchet MS, sans-serif;
+}
+
+button {
+    border-radius: 2px;
+    opacity: 75%;
+    background-color: rgb(253, 247, 247);
+}
+
+button:hover {
+    opacity: 65%;
+}
+
+table
+{
+    width: 60%;
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+}
+
+th, td
+{
+    padding: 8px;
+    border: 2px solid white;
+}
+
+tr:nth-child(even)
+{
+  background-color: black;
+}
+
+tr:nth-child(odd)
+{
+  background-color: rgba(77, 76, 76, 0.8);
+}
+
+.page_container {
+    padding: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+.orange {
+    background-color: #e3884f;
+}
+
+.distance {
+    margin: 0px 50px;
+}
+
+.flexbar {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.maintext {
+    color: white;
+}
+
+.imgcenter {
+    display: block;
+    margin: auto;
+}
+
+.smallprint
+{
+    color: #ffffff;
+    font-size: 8pt;
+    padding: 2px;
+    border-radius: 2px;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(51, 50, 50);
+    text-align: center;
+    opacity: 75%;
+}
+
+#carouselcontainer {
+    width:75%;
+    display: block;
+    margin: auto;
+}
+.carousel-item {
+    height: 800px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.carousel-item img {
+    width: 100%;
+}
+
+.boxcenter {
+    display: block;
+    margin: auto;
+}
+
+.textlink {
+    color: grey;
+}
+
+.textlink:hover {
+    color: rgb(163, 157, 157);
+}
+
+.resize {
+    height: 350px;
+    width: 300px;
+}
+
+.resize1 {
+    width: 400px; 
+    height: 350px;
+}
+
+.imgdiv {
+    justify-content: space-around;
+}
+
+.inputfield {
+    width: 300px;
+}
+
+.imgmargin {
+    margin: 10px 10px;
+}
+
+form input,textarea {
+    background-color: rgb(202, 197, 197);
+}
